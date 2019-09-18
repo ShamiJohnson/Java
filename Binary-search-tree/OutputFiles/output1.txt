@@ -1,0 +1,8 @@
+civilizati      1
+destiny         3
+is              2    3
+knowledge       2    3
+means           2    3
+of              1
+our             3
+science         1    2

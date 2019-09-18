@@ -1,0 +1,10 @@
+the objective of this programming project is to construct a cross-reference index for a given text
+file. such index structures have applications in the design of compilers and databases.
+our task is to write a program that while reading a text file collects all words of the text and retains
+the numbers of the lines in which each word occurred. when this scan is terminated, a table is printed
+showing all collected words in alphabetical order with lists of line numbers where they occurred. there
+would be only one line for each word.
+represent the words encountered in the text by a binary search tree (also called a lexicographic
+tree). for example, if there were three words ‘abracadabra’, ‘hocuspocus’, and ‘watchamaycalli’,
+‘hocuspocus’ would be the root with ‘abracadabra’ its left child and ‘watchamaycalli’ its right child. each
+node not only contains a word as key ‘watchamaycalli22’,#
